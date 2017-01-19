@@ -1,0 +1,627 @@
+[33mConfiguration file: none[0m
+[33mConfiguration file: none[0m
+            Source: /root/TA/leapday
+       Destination: /root/TA/leapday/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.05 seconds.
+ Auto-regeneration: enabled for '/root/TA/leapday'
+[33mConfiguration file: none[0m
+    Server address: http://0.0.0.0:11313/
+  Server running... press ctrl-c to stop.
+[2017-01-10 18:07:53] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:08:01] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:08:01] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:08:33 ...done in 0.020029098 seconds.
+[2017-01-10 18:08:34] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:08:43 ...done in 0.022638358 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:09:00 ...done in 0.028271133 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:09:02 ...done in 0.023505587 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:09:15 ...done in 0.027388185 seconds.
+[2017-01-10 18:09:16] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:09:20 ...done in 0.016124129 seconds.
+[2017-01-10 18:09:21] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:09:31 ...done in 0.019838265 seconds.
+[2017-01-10 18:09:32] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:09:35 ...done in 0.016269199 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:10:05 ...done in 0.016585812 seconds.
+[2017-01-10 18:10:06] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:10:18 ...done in 0.031412162 seconds.
+[2017-01-10 18:10:19] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:10:20 ...done in 0.020480262 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:10:23 ...done in 0.032275864 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:11:02 ...done in 0.016779408 seconds.
+[2017-01-10 18:11:03] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:11:14 ...done in 0.017296972 seconds.
+[2017-01-10 18:11:16] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:11:28 ...done in 0.020146194 seconds.
+[2017-01-10 18:11:28] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:11:46 ...done in 0.026817097 seconds.
+[2017-01-10 18:11:46] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:11:50 ...done in 0.027987286 seconds.
+[2017-01-10 18:11:50] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:11:53 ...done in 0.022106729 seconds.
+[2017-01-10 18:11:53] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:12:09 ...done in 0.022100972 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:12:20 ...done in 0.019690328 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:12:37 ...done in 0.01607313 seconds.
+[2017-01-10 18:12:38] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:12:39] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:12:39] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:12:41] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:12:43 ...done in 0.016623369 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:12:50 ...done in 0.023189452 seconds.
+[2017-01-10 18:12:51] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:12:53 ...done in 0.024284205 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:12:59 ...done in 0.017512014 seconds.
+[2017-01-10 18:12:59] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:00] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:02] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:02] ERROR `/favicon.ico' not found.
+[2017-01-10 18:13:02] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:03] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:13:08 ...done in 0.022631332 seconds.
+[2017-01-10 18:13:15] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:13:26 ...done in 0.020119415 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:13:54 ...done in 0.020573744 seconds.
+[2017-01-10 18:13:55] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:56] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:56] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:57] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:58] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:59] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:13:59] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:14:00] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+>>> [32mCompass is watching for changes.[0m [31mPress Ctrl-C to Stop.[0m
+      Regenerating: 2 file(s) changed at 2017-01-10 18:14:30 ...done in 0.035434809 seconds.
+      Regenerating: 4 file(s) changed at 2017-01-10 18:14:30 ...done in 0.049130262 seconds.
+[2017-01-10 18:14:30] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 5 file(s) changed at 2017-01-10 18:14:30 ...done in 0.034978106 seconds.
+      Regenerating: 2 file(s) changed at 2017-01-10 18:14:30 ...done in 0.030801911 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:14:30 ...done in 0.031595898 seconds.
+      Regenerating: 3 file(s) changed at 2017-01-10 18:14:31 [2017-01-10 18:14:31] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+...done in 0.040225803 seconds.
+      Regenerating: 4 file(s) changed at 2017-01-10 18:14:31 ...done in 0.030977108 seconds.
+      Regenerating: 4 file(s) changed at 2017-01-10 18:14:31 ...done in 0.028749978 seconds.
+      Regenerating: 2 file(s) changed at 2017-01-10 18:14:31 ...done in 0.031039512 seconds.
+      Regenerating: 3 file(s) changed at 2017-01-10 18:14:31 ...done in 0.029803898 seconds.
+      Regenerating: 4 file(s) changed at 2017-01-10 18:14:31 ...done in 0.029726854 seconds.
+[2017-01-10 18:14:31] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:14:31 ...done in 0.031517673 seconds.
+[32m    write[0m assets/stylesheets/styles.css
+      Regenerating: 2 file(s) changed at 2017-01-10 18:14:32 ...done in 0.020035501 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:14:32 [2017-01-10 18:14:32] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+...done in 0.018178144 seconds.
+[2017-01-10 18:14:33] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[33m modified[0m assets/scss/_variables.scss
+      Regenerating: 1 file(s) changed at 2017-01-10 18:14:44 ...done in 0.032906482 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:14:45 ...done in 0.03554465 seconds.
+[32m    write[0m assets/stylesheets/styles.css
+      Regenerating: 1 file(s) changed at 2017-01-10 18:14:45 ...done in 0.02523191 seconds.
+[2017-01-10 18:14:45] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:15:39 ...done in 0.029078995 seconds.
+[2017-01-10 18:15:40] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:15:41] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:15:42] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:15:43] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:15:46] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:15:47] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:15:48] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:15:52 ...done in 0.019261737 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:16:13 ...done in 0.018035358 seconds.
+[2017-01-10 18:16:14] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:16:15] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:16:26 ...done in 0.017209766 seconds.
+[2017-01-10 18:16:26] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:16:52 ...done in 0.04215063 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:16:54 ...done in 0.021722356 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:16:56 ...done in 0.017819879 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:17:04 ...done in 0.018788528 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:17:23 ...done in 0.018632791 seconds.
+[2017-01-10 18:17:23] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:17:33 ...done in 0.027817906 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:17:34 ...done in 0.016150948 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:17:35 ...done in 0.019577569 seconds.
+[2017-01-10 18:17:35] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:17:44 ...done in 0.017175824 seconds.
+[2017-01-10 18:17:45] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:17:57 ...done in 0.017490961 seconds.
+[2017-01-10 18:17:57] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:18:03 ...done in 0.026061801 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:18:30 ...done in 0.022209822 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:18:50 ...done in 0.022568798 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:19:00 ...done in 0.022568083 seconds.
+[2017-01-10 18:19:02] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:19:07 ...done in 0.016322357 seconds.
+[2017-01-10 18:19:07] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:19:10 ...done in 0.017342021 seconds.
+[2017-01-10 18:19:10] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:19:12] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:19:19] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:19:20] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:34:28] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:35:24 ...done in 0.030201661 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:35:51 ...done in 0.023323486 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:35:55 ...done in 0.022089249 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:36:06 ...done in 0.027896598 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:36:07 ...done in 0.021581263 seconds.
+[2017-01-10 18:36:09] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:36:41 ...done in 0.021596459 seconds.
+[2017-01-10 18:36:41] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:36:47 ...done in 0.021459756 seconds.
+[2017-01-10 18:36:47] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:39:50 ...done in 0.021143038 seconds.
+[2017-01-10 18:39:52] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:40:17 ...done in 0.023258202 seconds.
+[2017-01-10 18:40:20] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:40:55 ...done in 0.022124952 seconds.
+[2017-01-10 18:40:56] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:46:20 ...done in 0.025264257 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:46:21 ...done in 0.023528258 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:46:46 ...done in 0.020048816 seconds.
+[2017-01-10 18:46:48] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:46:58 ...done in 0.032784438 seconds.
+[2017-01-10 18:46:59] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:47:19 ...done in 0.021565653 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:47:24 ...done in 0.021651095 seconds.
+[2017-01-10 18:47:25] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:47:31 ...done in 0.020002763 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:47:36 ...done in 0.025027878 seconds.
+[2017-01-10 18:47:36] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:47:47 ...done in 0.019348302 seconds.
+[2017-01-10 18:47:47] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:47:59 ...done in 0.016399515 seconds.
+[2017-01-10 18:47:59] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:48:07 ...done in 0.018329452 seconds.
+[2017-01-10 18:48:07] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-10 18:57:23 ...done in 0.025129059 seconds.
+[2017-01-10 18:57:27] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 18:59:43] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 19:00:44] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 19:00:48] ERROR `/favicon.ico' not found.
+[2017-01-10 19:22:08] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 19:22:09] ERROR `/favicon.ico' not found.
+[2017-01-10 19:29:53] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-10 19:29:53] ERROR `/favicon.ico' not found.
+[2017-01-10 20:32:48] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 01:04:22] ERROR `/favicon.ico' not found.
+[2017-01-11 08:43:01] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 08:43:01] ERROR `/favicon.ico' not found.
+[2017-01-11 12:30:31] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 12:30:32] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2017-01-11 12:49:45 ...done in 0.023465676 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-11 12:49:59 ...done in 0.019691194 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-11 12:49:59 ...done in 0.020543064 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-11 12:50:07 ...done in 0.021606185 seconds.
+[2017-01-11 12:51:13] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 12:55:53] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 12:55:55] ERROR `/favicon.ico' not found.
+[2017-01-11 12:57:00] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 12:57:15] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 13:57:03] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 13:57:04] ERROR `/favicon.ico' not found.
+[2017-01-11 14:01:46] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 14:01:47] ERROR `/favicon.ico' not found.
+[2017-01-11 14:10:58] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 14:10:58] ERROR `/favicon.ico' not found.
+[2017-01-11 17:17:46] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-11 17:17:47] ERROR `/favicon.ico' not found.
+[2017-01-12 10:35:53] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 10:35:53] ERROR `/favicon.ico' not found.
+[2017-01-12 10:44:01] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 10:46:41 ...done in 0.068348486 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 10:46:42 ...done in 0.017140046 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 10:46:50 ...done in 0.018375561 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 10:47:35 ...done in 0.016307076 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 10:47:41 ...done in 0.021985872 seconds.
+[2017-01-12 10:47:43] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 10:59:03 ...done in 0.035089317 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:01:35 ...done in 0.025774024 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:01:37 ...done in 0.024625642 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:01:59 ...done in 0.025929352 seconds.
+[2017-01-12 11:02:00] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 11:10:49] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:32:06 ...done in 0.025573281 seconds.
+[2017-01-12 11:32:06] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:32:19 ...done in 0.020964433 seconds.
+[2017-01-12 11:32:19] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:32:36 ...done in 0.01656962 seconds.
+[2017-01-12 11:32:39] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:32:47 ...done in 0.024199757 seconds.
+[2017-01-12 11:32:48] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 11:37:44] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:47:02 ...done in 0.025246537 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:52:22 ...done in 0.028599456 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:52:23 ...done in 0.020010819 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:52:24 ...done in 0.02594257 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 11:55:59 ...done in 0.025186551 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 12:07:40 ...done in 0.030726488 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 12:10:59 ...done in 0.024797626 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-12 12:11:41 ...done in 0.033213276 seconds.
+[2017-01-12 12:11:44] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 12:12:05] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 12:26:39 ...done in 0.024746474 seconds.
+[2017-01-12 13:27:11] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 14:56:27] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 16:19:05] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 16:19:05] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 16:59:28 ...done in 0.025940705 seconds.
+[2017-01-12 16:59:29] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:01:33] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-12 17:08:35 ...done in 0.03278036 seconds.
+[2017-01-12 17:08:37] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:17:54] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:17:55] ERROR `/favicon.ico' not found.
+[2017-01-12 17:18:07] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:18:07] ERROR `/favicon.ico' not found.
+[2017-01-12 17:30:11] ERROR `/robots.txt' not found.
+[2017-01-12 17:30:39] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:30:45] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:30:47] ERROR `/favicon.ico' not found.
+[2017-01-12 17:31:30] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:31:44] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:31:48] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:34:52] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:34:53] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:34:53] ERROR `/favicon.ico' not found.
+[2017-01-12 17:34:53] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:34:53] ERROR `/favicon.ico' not found.
+[2017-01-12 17:34:53] ERROR `/favicon.ico' not found.
+[2017-01-12 17:34:53] ERROR `/favicon.ico' not found.
+[2017-01-12 17:34:55] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:34:55] ERROR `/favicon.ico' not found.
+[2017-01-12 17:34:55] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:34:55] ERROR `/favicon.ico' not found.
+[2017-01-12 17:34:56] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:34:57] ERROR `/favicon.ico' not found.
+[2017-01-12 17:35:03] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:03] ERROR `/favicon.ico' not found.
+[2017-01-12 17:35:07] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:08] ERROR `/favicon.ico' not found.
+[2017-01-12 17:35:13] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:14] ERROR `/favicon.ico' not found.
+[2017-01-12 17:35:18] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:27] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:27] ERROR `/favicon.ico' not found.
+[2017-01-12 17:35:47] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:50] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:50] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:51] ERROR `/favicon.ico' not found.
+[2017-01-12 17:35:51] ERROR `/favicon.ico' not found.
+[2017-01-12 17:35:57] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:57] ERROR `/favicon.ico' not found.
+[2017-01-12 17:35:57] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:35:58] ERROR `/favicon.ico' not found.
+[2017-01-12 17:36:23] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:36:24] ERROR `/favicon.ico' not found.
+[2017-01-12 17:36:39] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:36:40] ERROR `/favicon.ico' not found.
+[2017-01-12 17:36:40] ERROR `/favicon.ico' not found.
+[2017-01-12 17:36:52] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:36:53] ERROR `/favicon.ico' not found.
+[2017-01-12 17:36:54] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:37:07] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:37:09] ERROR `/favicon.ico' not found.
+[2017-01-12 17:37:36] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:37:36] ERROR `/favicon.ico' not found.
+[2017-01-12 17:39:29] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:44:16] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:45:24] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:45:57] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:45:59] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:48:54] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:51:09] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:58:58] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:58:58] ERROR `/favicon.ico' not found.
+[2017-01-12 17:58:58] ERROR `/favicon.ico' not found.
+[2017-01-12 17:59:08] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:59:17] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:59:50] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 17:59:55] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:01:08] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:01:09] ERROR `/favicon.ico' not found.
+[2017-01-12 18:01:21] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:01:31] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:01:54] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:01:55] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/local/rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-01-12 18:01:57] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:02:41] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:02:55] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:03:14] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:03:21] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:03:22] ERROR `/favicon.ico' not found.
+[2017-01-12 18:03:44] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:03:47] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:03:48] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-12 18:03:48] ERROR `/favicon.ico' not found.
+[2017-01-12 18:03:48] ERROR `/apple-touch-icon.png' not found.
+[2017-01-12 18:03:48] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-12 18:03:48] ERROR `/apple-touch-icon.png' not found.
+[2017-01-12 18:05:52] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:05:52] ERROR `/favicon.ico' not found.
+[2017-01-12 18:07:49] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:08:33] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:08:34] ERROR `/favicon.ico' not found.
+[2017-01-12 18:15:38] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:15:38] ERROR `/favicon.ico' not found.
+[2017-01-12 18:17:34] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:21:12] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:27:08] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:28:51] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:28:52] ERROR `/favicon.ico' not found.
+[2017-01-12 18:29:49] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:29:50] ERROR `/favicon.ico' not found.
+[2017-01-12 18:31:38] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:32:01] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:32:20] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:32:33] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:32:34] ERROR `/favicon.ico' not found.
+[2017-01-12 18:32:54] ERROR bad Request-Line `\x16\x03\x01\x00Ï\x01\x00\x00Ë\x03\x03²xð¢€¦cT‡÷§QHä9êû²‘,™GœÉ¬6\x0FÊ¤V·\v\x00\x00$ººÀ+À/À,À0Ì©Ì¨Ì\x14Ì\x13À\tÀ\x13À'.
+[2017-01-12 18:32:54] ERROR bad URI `\x12l‰E\x00\x00$'.
+[2017-01-12 18:33:12] ERROR bad URI `À\x13À'.
+[2017-01-12 18:33:12] ERROR bad Request-Line `\x16\x03\x01\x00Ï\x01\x00\x00Ë\x03\x03«ˆU·qÈ=qäv³\x12Ï`?½Ï‰r¡ þ,â³\b\a_ÛîÁf\x00\x00$ªªÀ+À/À,À0Ì©Ì¨Ì\x14Ì\x13À\tÀ\x13À'.
+[2017-01-12 18:33:21] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:33:23] ERROR `/favicon.ico' not found.
+[2017-01-12 18:35:33] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:35:34] ERROR `/favicon.ico' not found.
+[2017-01-12 18:37:59] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:37:59] ERROR `/favicon.ico' not found.
+[2017-01-12 18:53:27] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 18:53:28] ERROR `/favicon.ico' not found.
+[2017-01-12 19:06:54] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 19:42:50] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 19:42:50] ERROR `/favicon.ico' not found.
+[2017-01-12 22:06:52] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 22:06:52] ERROR `/favicon.ico' not found.
+[2017-01-12 22:28:09] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 22:28:10] ERROR `/favicon.ico' not found.
+[2017-01-12 23:36:15] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 23:37:21] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-12 23:42:23] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-13 00:06:07] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-13 00:06:07] ERROR `/favicon.ico' not found.
+[2017-01-13 00:10:24] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-13 00:10:25] ERROR `/favicon.ico' not found.
+[2017-01-13 00:36:54] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-13 01:38:11] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-13 08:47:18] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-13 13:49:25] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-13 21:57:46] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-14 14:05:33] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-14 14:05:34] ERROR `/favicon.ico' not found.
+[2017-01-14 15:02:56] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-14 15:02:56] ERROR `/favicon.ico' not found.
+[2017-01-16 13:29:55] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-16 17:12:25] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-16 17:12:26] ERROR `/favicon.ico' not found.
+[2017-01-16 19:14:50] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-16 19:14:51] ERROR `/favicon.ico' not found.
+[2017-01-16 19:21:57] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-16 20:31:17] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-16 20:31:20] ERROR `/favicon.ico' not found.
+[2017-01-16 20:33:28] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-16 20:33:28] ERROR `/favicon.ico' not found.
+[2017-01-16 20:33:31] ERROR `/apple-touch-icon.png' not found.
+[2017-01-16 20:33:33] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-16 20:33:33] ERROR `/apple-touch-icon.png' not found.
+[2017-01-16 21:35:54] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-16 22:11:27] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-16 22:18:01] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-16 23:20:00] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-17 13:07:54] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-17 13:07:55] ERROR `/favicon.ico' not found.
+[2017-01-17 15:22:33] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-17 18:49:01] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-17 18:49:27] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-17 18:49:28] ERROR `/favicon.ico' not found.
+[2017-01-17 18:49:36] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-17 18:49:55] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 18:49:56] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 18:49:56] ERROR `/favicon.ico' not found.
+[2017-01-17 18:49:56] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 18:49:56] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 18:49:56] ERROR `/favicon.ico' not found.
+[2017-01-17 18:49:57] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 18:49:57] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 18:49:57] ERROR `/favicon.ico' not found.
+[2017-01-17 18:49:57] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 18:49:57] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 18:49:58] ERROR `/favicon.ico' not found.
+[2017-01-17 21:26:36] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 21:26:36] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 21:26:36] ERROR `/favicon.ico' not found.
+[2017-01-17 21:26:36] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 21:26:36] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 21:26:36] ERROR `/favicon.ico' not found.
+[2017-01-17 21:26:37] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 21:26:37] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 21:26:37] ERROR `/favicon.ico' not found.
+[2017-01-17 21:26:37] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 21:26:37] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 21:26:38] ERROR `/favicon.ico' not found.
+[2017-01-17 22:29:56] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-17 22:33:12] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 22:33:12] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 22:33:44] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 22:33:44] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 22:33:44] ERROR `/favicon.ico' not found.
+[2017-01-17 22:33:44] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 22:33:45] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 22:33:45] ERROR `/favicon.ico' not found.
+[2017-01-17 22:33:45] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 22:33:45] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 22:33:45] ERROR `/favicon.ico' not found.
+[2017-01-17 22:33:46] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 22:33:46] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 22:33:46] ERROR `/favicon.ico' not found.
+[2017-01-17 22:59:57] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-17 23:49:11] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 23:49:11] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 23:49:11] ERROR `/favicon.ico' not found.
+[2017-01-17 23:49:12] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 23:49:13] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 23:49:13] ERROR `/favicon.ico' not found.
+[2017-01-17 23:49:14] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 23:49:14] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 23:49:15] ERROR `/favicon.ico' not found.
+[2017-01-17 23:49:15] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-17 23:49:15] ERROR `/apple-touch-icon.png' not found.
+[2017-01-17 23:49:16] ERROR `/favicon.ico' not found.
+[2017-01-18 08:46:03] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-18 09:02:15] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 09:02:15] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 09:02:15] ERROR `/favicon.ico' not found.
+[2017-01-18 09:02:16] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 09:02:16] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 09:02:17] ERROR `/favicon.ico' not found.
+[2017-01-18 09:02:17] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 09:02:18] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 09:02:18] ERROR `/favicon.ico' not found.
+[2017-01-18 09:02:18] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 09:02:19] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 09:02:19] ERROR `/favicon.ico' not found.
+[2017-01-18 09:17:35] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-18 10:56:30] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-18 10:56:30] ERROR `/favicon.ico' not found.
+[2017-01-18 11:56:44] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 11:56:44] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 11:56:45] ERROR `/favicon.ico' not found.
+[2017-01-18 11:56:45] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 11:56:45] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 11:56:46] ERROR `/favicon.ico' not found.
+[2017-01-18 11:56:47] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 11:56:47] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 11:56:47] ERROR `/favicon.ico' not found.
+[2017-01-18 11:56:48] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 11:56:48] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 11:56:49] ERROR `/favicon.ico' not found.
+[2017-01-18 14:31:25] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 14:31:25] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 14:31:25] ERROR `/favicon.ico' not found.
+[2017-01-18 14:31:25] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 14:31:26] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 14:31:26] ERROR `/favicon.ico' not found.
+[2017-01-18 14:31:26] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 14:31:26] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 14:31:26] ERROR `/favicon.ico' not found.
+[2017-01-18 14:31:27] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 14:31:27] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 14:31:27] ERROR `/favicon.ico' not found.
+[2017-01-18 15:48:13] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 15:48:13] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 15:48:14] ERROR `/favicon.ico' not found.
+[2017-01-18 15:48:14] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 15:48:14] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 15:48:15] ERROR `/favicon.ico' not found.
+[2017-01-18 15:48:15] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 15:48:16] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 15:48:16] ERROR `/favicon.ico' not found.
+[2017-01-18 15:48:16] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 15:48:17] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 15:48:17] ERROR `/favicon.ico' not found.
+[2017-01-18 17:52:26] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 17:52:27] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 17:52:27] ERROR `/favicon.ico' not found.
+[2017-01-18 17:52:27] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 17:52:28] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 17:52:28] ERROR `/favicon.ico' not found.
+[2017-01-18 17:52:29] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 17:52:29] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 17:52:30] ERROR `/favicon.ico' not found.
+[2017-01-18 17:52:30] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 17:52:30] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 17:52:31] ERROR `/favicon.ico' not found.
+[2017-01-18 18:58:50] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 18:58:51] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 18:58:51] ERROR `/favicon.ico' not found.
+[2017-01-18 18:58:51] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 18:58:52] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 18:58:53] ERROR `/favicon.ico' not found.
+[2017-01-18 18:58:54] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 18:58:54] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 18:58:54] ERROR `/favicon.ico' not found.
+[2017-01-18 18:58:55] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 18:58:55] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 18:58:55] ERROR `/favicon.ico' not found.
+[2017-01-18 21:39:13] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 21:39:13] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 21:39:13] ERROR `/favicon.ico' not found.
+[2017-01-18 21:39:13] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 21:39:13] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 21:39:13] ERROR `/favicon.ico' not found.
+[2017-01-18 21:39:14] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 21:39:14] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 21:39:14] ERROR `/favicon.ico' not found.
+[2017-01-18 21:39:14] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 21:39:14] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 21:39:14] ERROR `/favicon.ico' not found.
+[2017-01-18 22:44:46] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 22:44:46] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 22:44:47] ERROR `/favicon.ico' not found.
+[2017-01-18 22:44:48] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 22:44:48] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 22:44:49] ERROR `/favicon.ico' not found.
+[2017-01-18 22:44:51] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 22:44:51] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 22:44:52] ERROR `/favicon.ico' not found.
+[2017-01-18 22:44:52] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-18 22:44:52] ERROR `/apple-touch-icon.png' not found.
+[2017-01-18 22:44:53] ERROR `/favicon.ico' not found.
+[2017-01-19 00:32:07] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 00:32:07] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 00:32:07] ERROR `/favicon.ico' not found.
+[2017-01-19 00:32:08] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 00:32:08] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 00:32:08] ERROR `/favicon.ico' not found.
+[2017-01-19 00:32:08] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 00:32:08] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 00:32:08] ERROR `/favicon.ico' not found.
+[2017-01-19 00:32:09] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 00:32:09] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 00:32:09] ERROR `/favicon.ico' not found.
+[2017-01-19 01:21:56] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-19 01:21:57] ERROR `/favicon.ico' not found.
+[2017-01-19 11:03:03] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-19 11:03:04] ERROR `/favicon.ico' not found.
+[2017-01-19 11:12:11] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-19 12:14:46] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 12:14:47] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 12:14:47] ERROR `/favicon.ico' not found.
+[2017-01-19 12:14:48] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 12:14:48] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 12:14:49] ERROR `/favicon.ico' not found.
+[2017-01-19 12:14:50] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 12:14:50] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 12:14:50] ERROR `/favicon.ico' not found.
+[2017-01-19 12:14:51] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 12:14:51] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 12:14:51] ERROR `/favicon.ico' not found.
+[2017-01-19 13:37:51] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 13:37:51] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 13:37:51] ERROR `/favicon.ico' not found.
+[2017-01-19 13:37:51] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 13:37:51] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 13:37:51] ERROR `/favicon.ico' not found.
+[2017-01-19 13:37:52] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 13:37:52] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 13:37:52] ERROR `/favicon.ico' not found.
+[2017-01-19 13:37:52] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2017-01-19 13:37:52] ERROR `/apple-touch-icon.png' not found.
+[2017-01-19 13:37:52] ERROR `/favicon.ico' not found.
+[2017-01-19 14:17:42] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-19 14:17:42] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2017-01-19 14:32:26 ...done in 0.074805273 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-19 14:32:53 ...done in 0.022857884 seconds.
+[2017-01-19 14:33:07] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+[2017-01-19 14:33:08] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2017-01-19 14:34:40 ...done in 0.038476509 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-19 14:34:41 ...done in 0.020959297 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-19 14:34:45 ...done in 0.019697776 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-19 14:37:12 ...done in 0.02957531 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-19 14:37:17 ...done in 0.023043257 seconds.
+      Regenerating: 1 file(s) changed at 2017-01-19 14:37:22 ...done in 0.02123102 seconds.
+[2017-01-19 14:41:41] ERROR `/assets/stylesheets/pygment_trac.css' not found.
+      Regenerating: 1 file(s) changed at 2017-01-19 14:44:07 
